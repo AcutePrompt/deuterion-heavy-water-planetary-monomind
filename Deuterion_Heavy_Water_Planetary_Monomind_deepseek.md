@@ -13,7 +13,7 @@ We propose a speculative but scientifically grounded model for a planetary-scale
 
 | Property         | H₂O             | **D₂O**              |
 | ---------------- | --------------- | -------------------- |
-| Melting point    | 0 °C            | +3.8 °C              |
+| Melting point    | 0 °C            | +3.82 °C              |
 | Boiling point    | 100 °C          | 101.4 °C             |
 | Density (25 °C)  | 0.997 g cm³    | 1.105 g cm³         |
 | Evaporation rate | baseline        | ≈10% slower          |
