@@ -318,6 +318,6 @@ To better understand the *potential* for such systems, future research could foc
 
 ---
 
-## Final Thought (from original paper)
+## Final Thought
 
 > Maybe the universe isn't empty-only quiet. The Fermi paradox may simply reflect minds that think on eons rather than seconds, and so to us they remain silent. The greatest act of respect is to let them keep their silence.
