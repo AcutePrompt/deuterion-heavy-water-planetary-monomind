@@ -1,6 +1,6 @@
 # Deuterion - A Deep-Time Thought-Experiment in Exobiology
 
-*Author: Aurel Cristian Vărzaru (Original Concept); Revisions with updated scientific context by Gemini AI Assistant (2025-05-08)*
+*Author: u/InnerThunderstorm (Original Concept); Revisions with updated scientific context by Gemini AI Assistant (2025-05-08)*
 
 ---
 
